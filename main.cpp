@@ -52,84 +52,95 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: washingMachine
+//  action 1: the washing machine washes clothes
+washingMachine.washClothes();
+//  action 2: the washing machine rinses clothes
+washingMachine.rinseClothes();
+//  action 3: the washing machine spins
+washingMachine.spin();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: dog
+//  action 1: the dog barks
+dog.bark();
+//  action 2: the dog fetches a ball
+dog.fetchBall();
+//  action 3: the dog wags its tail
+dog.wagTail();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: refrigerator
+//  action 1: the refrigerator goes for a jog
+refrigerator.goForJog();
+//  action 2: the refrigerator writes a poem
+refrigerator.writePoem();
+//  action 3: the refrigerator dreams of being a microwave
+refrigerator.dreamOfBeingMicrowave();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: television
+//  action 1: the television binge-watches humans
+television.bingeWatchHumans();
+//  action 2: the television changes channels by itself
+television.changeChannelsItself();
+//  action 3: the television pretends to be a radio
+television.pretendToBeRadio();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: toaster
+//  action 1: the toaster juggles bread
+toaster.juggleBread();
+//  action 2: the toaster tells a joke
+toaster.tellJoke();
+//  action 3: the toaster takes a selfie
+toaster.takeSelfie();
 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: phone
+//  action 1: the phone calls someone
+phone.call();
+//  action 2: the phone hangs up
+phone.hangUp();   
+//  action 3: the phone dials a number
+phone.dialNumber();
 
-//  action 2:
-
-//  action 3:
-
-//  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  7)    
+//  Noun: shoe
+//  action 1: the shoe slides on the floor
+shoe.slideOnFloor();
+//  action 2: the shoe slides on the table
+shoe.slideOnTable();
+//  action 3: the shoe slides on the wall
+shoe.slideOnWall();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: sandwich
+//  action 1: the sandwich eats bread
+sandwich.eatBread();
+//  action 2: the sandwich eats lettuce
+sandwich.eatLettuce();
+//  action 3: the sandwich eats cheese
+sandwich.eatCheese();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: lamp
+//  action 1: the lamp tries to outshine the sun
+lamp.tryToOutshineSun();
+//  action 2: the lamp does a light show
+lamp.doLightShow();
+//  action 3: the lamp pretends to be a disco ball
+lamp.pretendToBeDiscoBall();
 
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: chair
+//  action 1: the chair does a handstand
+chair.doHandstand();
+//  action 2: the chair spins like a top
+chair.spinLikeTop();
+//  action 3: the chair tries to walk
+chair.tryToWalk();
 
-//  action 2:
-
-//  action 3:
 
 
 
