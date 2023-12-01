@@ -114,46 +114,45 @@ shoe.slideOnTable();
 //  action 3: the shoe slides on the wall
 shoe.slideOnWall();
 
-//  8)
-//  Noun: sandwich
-//  action 1: the sandwich eats bread
-sandwich.eatBread();
-//  action 2: the sandwich eats lettuce
-sandwich.eatLettuce();
-//  action 3: the sandwich eats cheese
-sandwich.eatCheese();
+//  8)    
+//  Noun: coffeeMachine
+//  action 1: the coffeeMachine grinds beans
+coffeeMachine.grindBeans();
+//  action 2: the coffeeMachine brews coffee
+coffeeMachine.brewCoffee();
+//  action 3: the coffeeMachine steams milk
+coffeeMachine.steamMilk();
 
 //  9)
-//  Noun: lamp
-//  action 1: the lamp tries to outshine the sun
-lamp.tryToOutshineSun();
-//  action 2: the lamp does a light show
-lamp.doLightShow();
-//  action 3: the lamp pretends to be a disco ball
-lamp.pretendToBeDiscoBall();
+//  Noun: musicPlayer
+//  action 1: the musicPlayer plays a song
+musicPlayer.playSong();
+//  action 2: the musicPlayer pauses playback
+musicPlayer.pausePlayback();
+//  action 3: the musicPlayer skips to the next song
+musicPlayer.skipToNextSong();
 
 //  10)
-//  Noun: chair
-//  action 1: the chair does a handstand
-chair.doHandstand();
-//  action 2: the chair spins like a top
-chair.spinLikeTop();
-//  action 3: the chair tries to walk
-chair.tryToWalk();
-
-
-
+//  Noun: bookReader
+//  action 1: the bookReader opens a book
+bookReader.openBook();
+//  action 2: the bookReader turns a page
+bookReader.turnPage();
+//  action 3: the bookReader closes the book
+bookReader.closeBook();
 
 #endif
 
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
 
- Commit your changes by clicking on the Source Control panel on the left, entering a message, and click [Commit and push].
- 
- If you didn't already: 
+ Commit your changes by clicking on the Source Control panel on the left,
+ entering a message, and click [Commit and push].
+
+ If you didn't already:
     Make a pull request after you make your first commit
-    pin the pull request link and this repl.it link to our DM thread in a single message.
+    pin the pull request link and this repl.it link to our DM thread in a single
+ message.
 
  send me a DM to review your pull request when the project is ready for review.
 
@@ -161,8 +160,7 @@ chair.tryToWalk();
  */
 
 #include <iostream>
-int main()
-{
-    std::cout << "good to go" << std::endl;
-    return 0;
+int main() {
+  std::cout << "good to go" << std::endl;
+  return 0;
 }
