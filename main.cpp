@@ -52,97 +52,107 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: washingMachine
+//  action 1: the washing machine washes clothes
+washingMachine.washClothes();
+//  action 2: the washing machine rinses clothes
+washingMachine.rinseClothes();
+//  action 3: the washing machine spins
+washingMachine.spin();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: dog
+//  action 1: the dog barks
+dog.bark();
+//  action 2: the dog fetches a ball
+dog.fetchBall();
+//  action 3: the dog wags its tail
+dog.wagTail();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: refrigerator
+//  action 1: the refrigerator goes for a jog
+refrigerator.goForJog();
+//  action 2: the refrigerator writes a poem
+refrigerator.writePoem();
+//  action 3: the refrigerator dreams of being a microwave
+refrigerator.dreamOfBeingMicrowave();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: television
+//  action 1: the television binge-watches humans
+television.bingeWatchHumans();
+//  action 2: the television changes channels by itself
+television.changeChannelsItself();
+//  action 3: the television pretends to be a radio
+television.pretendToBeRadio();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: toaster
+//  action 1: the toaster juggles bread
+toaster.juggleBread();
+//  action 2: the toaster tells a joke
+toaster.tellJoke();
+//  action 3: the toaster takes a selfie
+toaster.takeSelfie();
 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: phone
+//  action 1: the phone calls someone
+phone.call();
+//  action 2: the phone hangs up
+phone.hangUp();   
+//  action 3: the phone dials a number
+phone.dialNumber();
 
-//  action 2:
+//  7)    
+//  Noun: shoe
+//  action 1: the shoe slides on the floor
+shoe.slideOnFloor();
+//  action 2: the shoe slides on the table
+shoe.slideOnTable();
+//  action 3: the shoe slides on the wall
+shoe.slideOnWall();
 
-//  action 3:
-
-//  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  8)    
+//  Noun: coffeeMachine
+//  action 1: the coffeeMachine grinds beans
+coffeeMachine.grindBeans();
+//  action 2: the coffeeMachine brews coffee
+coffeeMachine.brewCoffee();
+//  action 3: the coffeeMachine steams milk
+coffeeMachine.steamMilk();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: musicPlayer
+//  action 1: the musicPlayer plays a song
+musicPlayer.playSong();
+//  action 2: the musicPlayer pauses playback
+musicPlayer.pausePlayback();
+//  action 3: the musicPlayer skips to the next song
+musicPlayer.skipToNextSong();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-
+//  Noun: bookReader
+//  action 1: the bookReader opens a book
+bookReader.openBook();
+//  action 2: the bookReader turns a page
+bookReader.turnPage();
+//  action 3: the bookReader closes the book
+bookReader.closeBook();
 
 #endif
 
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
 
- Commit your changes by clicking on the Source Control panel on the left, entering a message, and click [Commit and push].
- 
- If you didn't already: 
+ Commit your changes by clicking on the Source Control panel on the left,
+ entering a message, and click [Commit and push].
+
+ If you didn't already:
     Make a pull request after you make your first commit
-    pin the pull request link and this repl.it link to our DM thread in a single message.
+    pin the pull request link and this repl.it link to our DM thread in a single
+ message.
 
  send me a DM to review your pull request when the project is ready for review.
 
@@ -150,8 +160,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
  */
 
 #include <iostream>
-int main()
-{
-    std::cout << "good to go" << std::endl;
-    return 0;
+int main() {
+  std::cout << "good to go" << std::endl;
+  return 0;
 }
